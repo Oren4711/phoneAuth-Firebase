@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    /*-----------------Welcome Activity Fields---------------*/
+    <string name="welcomeAct_textView_welcome">Welcome to the chat app</string>
+    <string name="welcomeAct_button_next">Continue</string>
+
+    /*-----------------Phone Authentication Activity Fields---------------*/
+
+    <string name="phoneAuth_phoneNumber_ET_hint">Your Phone Number</string>
+    <string name="phoneAuth_code_ET_hint">Your Code</string>
+    <string name="phoneAuth_button_submit">Submit</string>
+
+    /*-----------------Phone Authentication Activity Fields---------------*/
+
+    <string name="authCode_Code_ET_hint">Your Verification Code</string>
+    <string name="authCode_button_submit">Submit</string>
+
+
+    /*-----------------List Of Country and Phone Code---------------*/
+    <string-array name="countryCodes">
+        <item>Afghanistan +93</item>
+        <item>Albania +355</item>
+        <item>Algeria +213</item>
+        <item>American Samoa +1</item>
+        <item>Andorra +376</item>
+        <item>Angola +244</item>
+        <item>India +91</item>
+        <item>Israel +972</item>
+
+
+    </string-array>
+
+
+</resources>
